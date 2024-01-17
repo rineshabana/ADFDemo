@@ -1,0 +1,9 @@
+{
+	"name": "ShabzDemoDF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0838d770-286c-440a-a68e-59262be3ac0b",
+		"tenantId": "bde6efed-96d6-4528-a62e-16120cb4fe0f"
+	}
+}
