@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "ShabzDemoDF"
 		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
 		"SelfHosted-SharingIR_properties_typeProperties_linkedInfo_resourceId": {
 			"value": "/subscriptions/6623e9ba-fd4c-4715-974f-020b65eacc06/resourcegroups/DemoGroup/providers/Microsoft.DataFactory/factories/adfshabz/integrationruntimes/SelfHostedIR"
 		},
